@@ -1,0 +1,6 @@
+{
+  "name": "Desmistificando — Estúdio Programático Remotion",
+  "description": "Pipeline automatizado em React/Remotion, Python e FFmpeg para produção vertical 1080x1920 30fps da série Desmistificando.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

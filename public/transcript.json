@@ -1,0 +1,3077 @@
+{
+  "audioFile": "narracao.mp3",
+  "language": "pt",
+  "engine": "acoustic-viterbi-104clauses",
+  "fps": 30,
+  "durationMs": 251254,
+  "totalFrames": 7538,
+  "wordCount": 511,
+  "words": [
+    {
+      "word": "Desmistificando",
+      "startMs": 65,
+      "endMs": 795,
+      "confidence": 0.99
+    },
+    {
+      "word": "religiões.",
+      "startMs": 800,
+      "endMs": 1605,
+      "confidence": 0.99
+    },
+    {
+      "word": "Parte",
+      "startMs": 2325,
+      "endMs": 2735,
+      "confidence": 0.99
+    },
+    {
+      "word": "um.",
+      "startMs": 2740,
+      "endMs": 2990,
+      "confidence": 0.99
+    },
+    {
+      "word": "Os",
+      "startMs": 4210,
+      "endMs": 4315,
+      "confidence": 0.99
+    },
+    {
+      "word": "Evangelhos.",
+      "startMs": 4320,
+      "endMs": 5075,
+      "confidence": 0.99
+    },
+    {
+      "word": "Quando",
+      "startMs": 6125,
+      "endMs": 6350,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 6390,
+      "endMs": 6435,
+      "confidence": 0.99
+    },
+    {
+      "word": "tradição",
+      "startMs": 6440,
+      "endMs": 6940,
+      "confidence": 0.99
+    },
+    {
+      "word": "fala",
+      "startMs": 7010,
+      "endMs": 7375,
+      "confidence": 0.99
+    },
+    {
+      "word": "mais",
+      "startMs": 7380,
+      "endMs": 7510,
+      "confidence": 0.99
+    },
+    {
+      "word": "alto",
+      "startMs": 7515,
+      "endMs": 7805,
+      "confidence": 0.99
+    },
+    {
+      "word": "que",
+      "startMs": 7810,
+      "endMs": 7925,
+      "confidence": 0.99
+    },
+    {
+      "word": "os",
+      "startMs": 7955,
+      "endMs": 8080,
+      "confidence": 0.99
+    },
+    {
+      "word": "manuscritos.",
+      "startMs": 8085,
+      "endMs": 8780,
+      "confidence": 0.99
+    },
+    {
+      "word": "Abre",
+      "startMs": 10150,
+      "endMs": 10590,
+      "confidence": 0.99
+    },
+    {
+      "word": "o",
+      "startMs": 10595,
+      "endMs": 10675,
+      "confidence": 0.99
+    },
+    {
+      "word": "olho",
+      "startMs": 10735,
+      "endMs": 11010,
+      "confidence": 0.99
+    },
+    {
+      "word": "para",
+      "startMs": 11015,
+      "endMs": 11220,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 11225,
+      "endMs": 11290,
+      "confidence": 0.99
+    },
+    {
+      "word": "história.",
+      "startMs": 11295,
+      "endMs": 11785,
+      "confidence": 0.99
+    },
+    {
+      "word": "Você",
+      "startMs": 13730,
+      "endMs": 14065,
+      "confidence": 0.99
+    },
+    {
+      "word": "já",
+      "startMs": 14130,
+      "endMs": 14240,
+      "confidence": 0.99
+    },
+    {
+      "word": "parou",
+      "startMs": 14245,
+      "endMs": 14425,
+      "confidence": 0.99
+    },
+    {
+      "word": "para",
+      "startMs": 14465,
+      "endMs": 14615,
+      "confidence": 0.99
+    },
+    {
+      "word": "pensar",
+      "startMs": 14675,
+      "endMs": 14915,
+      "confidence": 0.99
+    },
+    {
+      "word": "em",
+      "startMs": 14920,
+      "endMs": 15080,
+      "confidence": 0.99
+    },
+    {
+      "word": "quem",
+      "startMs": 15085,
+      "endMs": 15305,
+      "confidence": 0.99
+    },
+    {
+      "word": "realmente",
+      "startMs": 15310,
+      "endMs": 15990,
+      "confidence": 0.99
+    },
+    {
+      "word": "escreveu",
+      "startMs": 15995,
+      "endMs": 16575,
+      "confidence": 0.99
+    },
+    {
+      "word": "os",
+      "startMs": 16580,
+      "endMs": 16690,
+      "confidence": 0.99
+    },
+    {
+      "word": "Evangelhos",
+      "startMs": 16695,
+      "endMs": 17195,
+      "confidence": 0.99
+    },
+    {
+      "word": "que",
+      "startMs": 17225,
+      "endMs": 17320,
+      "confidence": 0.99
+    },
+    {
+      "word": "estão",
+      "startMs": 17325,
+      "endMs": 17615,
+      "confidence": 0.99
+    },
+    {
+      "word": "na",
+      "startMs": 17620,
+      "endMs": 17705,
+      "confidence": 0.99
+    },
+    {
+      "word": "sua",
+      "startMs": 17720,
+      "endMs": 17825,
+      "confidence": 0.99
+    },
+    {
+      "word": "estante?",
+      "startMs": 17830,
+      "endMs": 18235,
+      "confidence": 0.99
+    },
+    {
+      "word": "A",
+      "startMs": 19110,
+      "endMs": 19190,
+      "confidence": 0.99
+    },
+    {
+      "word": "maioria",
+      "startMs": 19195,
+      "endMs": 19680,
+      "confidence": 0.99
+    },
+    {
+      "word": "das",
+      "startMs": 19725,
+      "endMs": 19805,
+      "confidence": 0.99
+    },
+    {
+      "word": "pessoas",
+      "startMs": 19810,
+      "endMs": 20280,
+      "confidence": 0.99
+    },
+    {
+      "word": "acredita",
+      "startMs": 20505,
+      "endMs": 21250,
+      "confidence": 0.99
+    },
+    {
+      "word": "que",
+      "startMs": 21255,
+      "endMs": 21310,
+      "confidence": 0.99
+    },
+    {
+      "word": "Mateus,",
+      "startMs": 21365,
+      "endMs": 21770,
+      "confidence": 0.99
+    },
+    {
+      "word": "Marcos,",
+      "startMs": 22015,
+      "endMs": 22635,
+      "confidence": 0.99
+    },
+    {
+      "word": "Lucas",
+      "startMs": 22825,
+      "endMs": 23140,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 23145,
+      "endMs": 23280,
+      "confidence": 0.99
+    },
+    {
+      "word": "João",
+      "startMs": 23285,
+      "endMs": 23735,
+      "confidence": 0.99
+    },
+    {
+      "word": "andaram",
+      "startMs": 24180,
+      "endMs": 24595,
+      "confidence": 0.99
+    },
+    {
+      "word": "com",
+      "startMs": 24610,
+      "endMs": 24730,
+      "confidence": 0.99
+    },
+    {
+      "word": "Jesus,",
+      "startMs": 24735,
+      "endMs": 25285,
+      "confidence": 0.99
+    },
+    {
+      "word": "pegaram",
+      "startMs": 25750,
+      "endMs": 26290,
+      "confidence": 0.99
+    },
+    {
+      "word": "um",
+      "startMs": 26340,
+      "endMs": 26420,
+      "confidence": 0.99
+    },
+    {
+      "word": "pergaminho",
+      "startMs": 26425,
+      "endMs": 27190,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 27195,
+      "endMs": 27260,
+      "confidence": 0.99
+    },
+    {
+      "word": "anotaram",
+      "startMs": 27330,
+      "endMs": 27815,
+      "confidence": 0.99
+    },
+    {
+      "word": "tudo",
+      "startMs": 27820,
+      "endMs": 28230,
+      "confidence": 0.99
+    },
+    {
+      "word": "ao",
+      "startMs": 28235,
+      "endMs": 28290,
+      "confidence": 0.99
+    },
+    {
+      "word": "vivo.",
+      "startMs": 28295,
+      "endMs": 28560,
+      "confidence": 0.99
+    },
+    {
+      "word": "Mas",
+      "startMs": 29455,
+      "endMs": 29615,
+      "confidence": 0.99
+    },
+    {
+      "word": "quando",
+      "startMs": 29620,
+      "endMs": 29920,
+      "confidence": 0.99
+    },
+    {
+      "word": "olhamos",
+      "startMs": 29925,
+      "endMs": 30520,
+      "confidence": 0.99
+    },
+    {
+      "word": "para",
+      "startMs": 30570,
+      "endMs": 30680,
+      "confidence": 0.99
+    },
+    {
+      "word": "os",
+      "startMs": 30685,
+      "endMs": 30750,
+      "confidence": 0.99
+    },
+    {
+      "word": "fatos",
+      "startMs": 30755,
+      "endMs": 31020,
+      "confidence": 0.99
+    },
+    {
+      "word": "históricos",
+      "startMs": 31090,
+      "endMs": 31890,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 32385,
+      "endMs": 32445,
+      "confidence": 0.99
+    },
+    {
+      "word": "para",
+      "startMs": 32540,
+      "endMs": 32745,
+      "confidence": 0.99
+    },
+    {
+      "word": "os",
+      "startMs": 32750,
+      "endMs": 32860,
+      "confidence": 0.99
+    },
+    {
+      "word": "manuscritos",
+      "startMs": 32865,
+      "endMs": 33390,
+      "confidence": 0.99
+    },
+    {
+      "word": "mais",
+      "startMs": 33395,
+      "endMs": 33530,
+      "confidence": 0.99
+    },
+    {
+      "word": "antigos,",
+      "startMs": 33535,
+      "endMs": 34510,
+      "confidence": 0.99
+    },
+    {
+      "word": "o",
+      "startMs": 34930,
+      "endMs": 34980,
+      "confidence": 0.99
+    },
+    {
+      "word": "cenário",
+      "startMs": 34985,
+      "endMs": 35415,
+      "confidence": 0.99
+    },
+    {
+      "word": "muda",
+      "startMs": 35420,
+      "endMs": 35755,
+      "confidence": 0.99
+    },
+    {
+      "word": "completamente.",
+      "startMs": 35760,
+      "endMs": 36805,
+      "confidence": 0.99
+    },
+    {
+      "word": "Primeiro",
+      "startMs": 37880,
+      "endMs": 38270,
+      "confidence": 0.99
+    },
+    {
+      "word": "fato:",
+      "startMs": 38330,
+      "endMs": 38615,
+      "confidence": 0.99
+    },
+    {
+      "word": "todos",
+      "startMs": 39230,
+      "endMs": 39675,
+      "confidence": 0.99
+    },
+    {
+      "word": "os",
+      "startMs": 39700,
+      "endMs": 39740,
+      "confidence": 0.99
+    },
+    {
+      "word": "quatro",
+      "startMs": 39745,
+      "endMs": 40095,
+      "confidence": 0.99
+    },
+    {
+      "word": "Evangelhos",
+      "startMs": 40100,
+      "endMs": 40710,
+      "confidence": 0.99
+    },
+    {
+      "word": "são",
+      "startMs": 40715,
+      "endMs": 40840,
+      "confidence": 0.99
+    },
+    {
+      "word": "tecnicamente",
+      "startMs": 40925,
+      "endMs": 41545,
+      "confidence": 0.99
+    },
+    {
+      "word": "anônimos.",
+      "startMs": 41550,
+      "endMs": 42170,
+      "confidence": 0.99
+    },
+    {
+      "word": "Em",
+      "startMs": 42705,
+      "endMs": 42845,
+      "confidence": 0.99
+    },
+    {
+      "word": "nenhum",
+      "startMs": 42850,
+      "endMs": 43340,
+      "confidence": 0.99
+    },
+    {
+      "word": "momento",
+      "startMs": 43345,
+      "endMs": 43975,
+      "confidence": 0.99
+    },
+    {
+      "word": "o",
+      "startMs": 43980,
+      "endMs": 44120,
+      "confidence": 0.99
+    },
+    {
+      "word": "autor",
+      "startMs": 44125,
+      "endMs": 44330,
+      "confidence": 0.99
+    },
+    {
+      "word": "de",
+      "startMs": 44425,
+      "endMs": 44540,
+      "confidence": 0.99
+    },
+    {
+      "word": "Mateus",
+      "startMs": 44545,
+      "endMs": 44870,
+      "confidence": 0.99
+    },
+    {
+      "word": "diz:",
+      "startMs": 44875,
+      "endMs": 45010,
+      "confidence": 0.99
+    },
+    {
+      "word": "Eu,",
+      "startMs": 45795,
+      "endMs": 45965,
+      "confidence": 0.99
+    },
+    {
+      "word": "Mateus,",
+      "startMs": 45970,
+      "endMs": 46335,
+      "confidence": 0.99
+    },
+    {
+      "word": "escrevi",
+      "startMs": 46340,
+      "endMs": 46855,
+      "confidence": 0.99
+    },
+    {
+      "word": "isso.",
+      "startMs": 46860,
+      "endMs": 47510,
+      "confidence": 0.99
+    },
+    {
+      "word": "O",
+      "startMs": 48480,
+      "endMs": 48580,
+      "confidence": 0.99
+    },
+    {
+      "word": "mesmo",
+      "startMs": 48585,
+      "endMs": 48980,
+      "confidence": 0.99
+    },
+    {
+      "word": "vale",
+      "startMs": 48985,
+      "endMs": 49285,
+      "confidence": 0.99
+    },
+    {
+      "word": "para",
+      "startMs": 49345,
+      "endMs": 49545,
+      "confidence": 0.99
+    },
+    {
+      "word": "Marcos,",
+      "startMs": 49550,
+      "endMs": 50090,
+      "confidence": 0.99
+    },
+    {
+      "word": "Lucas",
+      "startMs": 50320,
+      "endMs": 50595,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 50600,
+      "endMs": 50720,
+      "confidence": 0.99
+    },
+    {
+      "word": "João.",
+      "startMs": 50725,
+      "endMs": 51160,
+      "confidence": 0.99
+    },
+    {
+      "word": "Os",
+      "startMs": 52000,
+      "endMs": 52150,
+      "confidence": 0.99
+    },
+    {
+      "word": "títulos",
+      "startMs": 52190,
+      "endMs": 52725,
+      "confidence": 0.99
+    },
+    {
+      "word": "Evangelho",
+      "startMs": 52990,
+      "endMs": 53765,
+      "confidence": 0.99
+    },
+    {
+      "word": "segundo",
+      "startMs": 53770,
+      "endMs": 54280,
+      "confidence": 0.99
+    },
+    {
+      "word": "só",
+      "startMs": 54795,
+      "endMs": 54855,
+      "confidence": 0.99
+    },
+    {
+      "word": "foram",
+      "startMs": 54860,
+      "endMs": 55315,
+      "confidence": 0.99
+    },
+    {
+      "word": "adicionados",
+      "startMs": 55320,
+      "endMs": 56210,
+      "confidence": 0.99
+    },
+    {
+      "word": "décadas",
+      "startMs": 56255,
+      "endMs": 56670,
+      "confidence": 0.99
+    },
+    {
+      "word": "mais",
+      "startMs": 56675,
+      "endMs": 56745,
+      "confidence": 0.99
+    },
+    {
+      "word": "tarde",
+      "startMs": 56805,
+      "endMs": 57140,
+      "confidence": 0.99
+    },
+    {
+      "word": "pela",
+      "startMs": 57535,
+      "endMs": 57710,
+      "confidence": 0.99
+    },
+    {
+      "word": "tradição",
+      "startMs": 57765,
+      "endMs": 58095,
+      "confidence": 0.99
+    },
+    {
+      "word": "da",
+      "startMs": 58105,
+      "endMs": 58245,
+      "confidence": 0.99
+    },
+    {
+      "word": "Igreja",
+      "startMs": 58250,
+      "endMs": 58840,
+      "confidence": 0.99
+    },
+    {
+      "word": "para",
+      "startMs": 59185,
+      "endMs": 59400,
+      "confidence": 0.99
+    },
+    {
+      "word": "dar",
+      "startMs": 59405,
+      "endMs": 59570,
+      "confidence": 0.99
+    },
+    {
+      "word": "autoridade",
+      "startMs": 59575,
+      "endMs": 60385,
+      "confidence": 0.99
+    },
+    {
+      "word": "aos",
+      "startMs": 60390,
+      "endMs": 60465,
+      "confidence": 0.99
+    },
+    {
+      "word": "textos.",
+      "startMs": 60535,
+      "endMs": 60840,
+      "confidence": 0.99
+    },
+    {
+      "word": "Segundo",
+      "startMs": 62120,
+      "endMs": 62580,
+      "confidence": 0.99
+    },
+    {
+      "word": "fato:",
+      "startMs": 62670,
+      "endMs": 62985,
+      "confidence": 0.99
+    },
+    {
+      "word": "o",
+      "startMs": 63555,
+      "endMs": 63665,
+      "confidence": 0.99
+    },
+    {
+      "word": "idioma.",
+      "startMs": 63670,
+      "endMs": 64325,
+      "confidence": 0.99
+    },
+    {
+      "word": "Jesus",
+      "startMs": 65350,
+      "endMs": 65915,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 65920,
+      "endMs": 65980,
+      "confidence": 0.99
+    },
+    {
+      "word": "seus",
+      "startMs": 65985,
+      "endMs": 66160,
+      "confidence": 0.99
+    },
+    {
+      "word": "discípulos",
+      "startMs": 66170,
+      "endMs": 66790,
+      "confidence": 0.99
+    },
+    {
+      "word": "falavam",
+      "startMs": 66840,
+      "endMs": 67385,
+      "confidence": 0.99
+    },
+    {
+      "word": "aramaico",
+      "startMs": 67390,
+      "endMs": 67990,
+      "confidence": 0.99
+    },
+    {
+      "word": "na",
+      "startMs": 67995,
+      "endMs": 68120,
+      "confidence": 0.99
+    },
+    {
+      "word": "região",
+      "startMs": 68125,
+      "endMs": 68575,
+      "confidence": 0.99
+    },
+    {
+      "word": "da",
+      "startMs": 68580,
+      "endMs": 68685,
+      "confidence": 0.99
+    },
+    {
+      "word": "Galileia,",
+      "startMs": 68690,
+      "endMs": 69245,
+      "confidence": 0.99
+    },
+    {
+      "word": "onde",
+      "startMs": 69990,
+      "endMs": 70260,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 70265,
+      "endMs": 70320,
+      "confidence": 0.99
+    },
+    {
+      "word": "taxa",
+      "startMs": 70350,
+      "endMs": 70560,
+      "confidence": 0.99
+    },
+    {
+      "word": "de",
+      "startMs": 70565,
+      "endMs": 70665,
+      "confidence": 0.99
+    },
+    {
+      "word": "analfabetismo",
+      "startMs": 70670,
+      "endMs": 71520,
+      "confidence": 0.99
+    },
+    {
+      "word": "passava",
+      "startMs": 71525,
+      "endMs": 71895,
+      "confidence": 0.99
+    },
+    {
+      "word": "de",
+      "startMs": 71910,
+      "endMs": 72025,
+      "confidence": 0.99
+    },
+    {
+      "word": "noventa",
+      "startMs": 72030,
+      "endMs": 72615,
+      "confidence": 0.99
+    },
+    {
+      "word": "por",
+      "startMs": 72650,
+      "endMs": 72725,
+      "confidence": 0.99
+    },
+    {
+      "word": "cento.",
+      "startMs": 72785,
+      "endMs": 73280,
+      "confidence": 0.99
+    },
+    {
+      "word": "Mas",
+      "startMs": 74145,
+      "endMs": 74355,
+      "confidence": 0.99
+    },
+    {
+      "word": "os",
+      "startMs": 74360,
+      "endMs": 74485,
+      "confidence": 0.99
+    },
+    {
+      "word": "Evangelhos",
+      "startMs": 74490,
+      "endMs": 75245,
+      "confidence": 0.99
+    },
+    {
+      "word": "foram",
+      "startMs": 75310,
+      "endMs": 75605,
+      "confidence": 0.99
+    },
+    {
+      "word": "escritos",
+      "startMs": 75650,
+      "endMs": 76155,
+      "confidence": 0.99
+    },
+    {
+      "word": "em",
+      "startMs": 76160,
+      "endMs": 76230,
+      "confidence": 0.99
+    },
+    {
+      "word": "grego",
+      "startMs": 76235,
+      "endMs": 76490,
+      "confidence": 0.99
+    },
+    {
+      "word": "cultivado,",
+      "startMs": 76525,
+      "endMs": 77115,
+      "confidence": 0.99
+    },
+    {
+      "word": "por",
+      "startMs": 77475,
+      "endMs": 77590,
+      "confidence": 0.99
+    },
+    {
+      "word": "pessoas",
+      "startMs": 77640,
+      "endMs": 77865,
+      "confidence": 0.99
+    },
+    {
+      "word": "altamente",
+      "startMs": 77870,
+      "endMs": 78635,
+      "confidence": 0.99
+    },
+    {
+      "word": "letradas,",
+      "startMs": 78650,
+      "endMs": 79340,
+      "confidence": 0.99
+    },
+    {
+      "word": "décadas",
+      "startMs": 79765,
+      "endMs": 80295,
+      "confidence": 0.99
+    },
+    {
+      "word": "depois",
+      "startMs": 80300,
+      "endMs": 80785,
+      "confidence": 0.99
+    },
+    {
+      "word": "dos",
+      "startMs": 80790,
+      "endMs": 80910,
+      "confidence": 0.99
+    },
+    {
+      "word": "acontecimentos.",
+      "startMs": 80915,
+      "endMs": 81905,
+      "confidence": 0.99
+    },
+    {
+      "word": "O",
+      "startMs": 82705,
+      "endMs": 82810,
+      "confidence": 0.99
+    },
+    {
+      "word": "mais",
+      "startMs": 82815,
+      "endMs": 82950,
+      "confidence": 0.99
+    },
+    {
+      "word": "antigo",
+      "startMs": 82955,
+      "endMs": 83520,
+      "confidence": 0.99
+    },
+    {
+      "word": "deles,",
+      "startMs": 83525,
+      "endMs": 83910,
+      "confidence": 0.99
+    },
+    {
+      "word": "Marcos,",
+      "startMs": 84245,
+      "endMs": 84815,
+      "confidence": 0.99
+    },
+    {
+      "word": "foi",
+      "startMs": 85315,
+      "endMs": 85455,
+      "confidence": 0.99
+    },
+    {
+      "word": "escrito",
+      "startMs": 85460,
+      "endMs": 85950,
+      "confidence": 0.99
+    },
+    {
+      "word": "por",
+      "startMs": 85955,
+      "endMs": 86025,
+      "confidence": 0.99
+    },
+    {
+      "word": "volta",
+      "startMs": 86085,
+      "endMs": 86475,
+      "confidence": 0.99
+    },
+    {
+      "word": "do",
+      "startMs": 86510,
+      "endMs": 86615,
+      "confidence": 0.99
+    },
+    {
+      "word": "ano",
+      "startMs": 86620,
+      "endMs": 86940,
+      "confidence": 0.99
+    },
+    {
+      "word": "setenta",
+      "startMs": 86955,
+      "endMs": 87320,
+      "confidence": 0.99
+    },
+    {
+      "word": "depois",
+      "startMs": 87360,
+      "endMs": 87795,
+      "confidence": 0.99
+    },
+    {
+      "word": "de",
+      "startMs": 87805,
+      "endMs": 87880,
+      "confidence": 0.99
+    },
+    {
+      "word": "Cristo.",
+      "startMs": 87940,
+      "endMs": 88310,
+      "confidence": 0.99
+    },
+    {
+      "word": "Quarenta",
+      "startMs": 89000,
+      "endMs": 89360,
+      "confidence": 0.99
+    },
+    {
+      "word": "anos",
+      "startMs": 89365,
+      "endMs": 89770,
+      "confidence": 0.99
+    },
+    {
+      "word": "após",
+      "startMs": 89775,
+      "endMs": 90185,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 90190,
+      "endMs": 90285,
+      "confidence": 0.99
+    },
+    {
+      "word": "crucificação.",
+      "startMs": 90340,
+      "endMs": 91180,
+      "confidence": 0.99
+    },
+    {
+      "word": "Mateus",
+      "startMs": 92055,
+      "endMs": 92620,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 92625,
+      "endMs": 92725,
+      "confidence": 0.99
+    },
+    {
+      "word": "Lucas",
+      "startMs": 92770,
+      "endMs": 93020,
+      "confidence": 0.99
+    },
+    {
+      "word": "vieram",
+      "startMs": 93025,
+      "endMs": 93505,
+      "confidence": 0.99
+    },
+    {
+      "word": "ainda",
+      "startMs": 93510,
+      "endMs": 93905,
+      "confidence": 0.99
+    },
+    {
+      "word": "depois,",
+      "startMs": 94005,
+      "endMs": 94355,
+      "confidence": 0.99
+    },
+    {
+      "word": "entre",
+      "startMs": 94765,
+      "endMs": 94905,
+      "confidence": 0.99
+    },
+    {
+      "word": "os",
+      "startMs": 94940,
+      "endMs": 94975,
+      "confidence": 0.99
+    },
+    {
+      "word": "anos",
+      "startMs": 94980,
+      "endMs": 95260,
+      "confidence": 0.99
+    },
+    {
+      "word": "oitenta",
+      "startMs": 95265,
+      "endMs": 95610,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 95615,
+      "endMs": 95735,
+      "confidence": 0.99
+    },
+    {
+      "word": "noventa,",
+      "startMs": 95750,
+      "endMs": 96380,
+      "confidence": 0.99
+    },
+    {
+      "word": "copiando",
+      "startMs": 96750,
+      "endMs": 97220,
+      "confidence": 0.99
+    },
+    {
+      "word": "trechos",
+      "startMs": 97275,
+      "endMs": 97485,
+      "confidence": 0.99
+    },
+    {
+      "word": "inteiros",
+      "startMs": 97490,
+      "endMs": 98040,
+      "confidence": 0.99
+    },
+    {
+      "word": "de",
+      "startMs": 98045,
+      "endMs": 98195,
+      "confidence": 0.99
+    },
+    {
+      "word": "Marcos",
+      "startMs": 98200,
+      "endMs": 98795,
+      "confidence": 0.99
+    },
+    {
+      "word": "quase",
+      "startMs": 99055,
+      "endMs": 99350,
+      "confidence": 0.99
+    },
+    {
+      "word": "palavra",
+      "startMs": 99445,
+      "endMs": 100105,
+      "confidence": 0.99
+    },
+    {
+      "word": "por",
+      "startMs": 100170,
+      "endMs": 100295,
+      "confidence": 0.99
+    },
+    {
+      "word": "palavra.",
+      "startMs": 100350,
+      "endMs": 100835,
+      "confidence": 0.99
+    },
+    {
+      "word": "E",
+      "startMs": 101590,
+      "endMs": 101700,
+      "confidence": 0.99
+    },
+    {
+      "word": "João",
+      "startMs": 101705,
+      "endMs": 102045,
+      "confidence": 0.99
+    },
+    {
+      "word": "foi",
+      "startMs": 102065,
+      "endMs": 102245,
+      "confidence": 0.99
+    },
+    {
+      "word": "escrito",
+      "startMs": 102250,
+      "endMs": 102600,
+      "confidence": 0.99
+    },
+    {
+      "word": "por",
+      "startMs": 102675,
+      "endMs": 102805,
+      "confidence": 0.99
+    },
+    {
+      "word": "volta",
+      "startMs": 102810,
+      "endMs": 103035,
+      "confidence": 0.99
+    },
+    {
+      "word": "do",
+      "startMs": 103085,
+      "endMs": 103170,
+      "confidence": 0.99
+    },
+    {
+      "word": "ano",
+      "startMs": 103175,
+      "endMs": 103545,
+      "confidence": 0.99
+    },
+    {
+      "word": "cem,",
+      "startMs": 103550,
+      "endMs": 103720,
+      "confidence": 0.99
+    },
+    {
+      "word": "quase",
+      "startMs": 104085,
+      "endMs": 104345,
+      "confidence": 0.99
+    },
+    {
+      "word": "um",
+      "startMs": 104350,
+      "endMs": 104455,
+      "confidence": 0.99
+    },
+    {
+      "word": "século",
+      "startMs": 104460,
+      "endMs": 104890,
+      "confidence": 0.99
+    },
+    {
+      "word": "depois.",
+      "startMs": 104905,
+      "endMs": 105410,
+      "confidence": 0.99
+    },
+    {
+      "word": "Terceiro",
+      "startMs": 106740,
+      "endMs": 107125,
+      "confidence": 0.99
+    },
+    {
+      "word": "fato:",
+      "startMs": 107225,
+      "endMs": 107490,
+      "confidence": 0.99
+    },
+    {
+      "word": "não",
+      "startMs": 108370,
+      "endMs": 108575,
+      "confidence": 0.99
+    },
+    {
+      "word": "temos",
+      "startMs": 108615,
+      "endMs": 108915,
+      "confidence": 0.99
+    },
+    {
+      "word": "nenhum",
+      "startMs": 108920,
+      "endMs": 109235,
+      "confidence": 0.99
+    },
+    {
+      "word": "original.",
+      "startMs": 109240,
+      "endMs": 109890,
+      "confidence": 0.99
+    },
+    {
+      "word": "O",
+      "startMs": 110595,
+      "endMs": 110650,
+      "confidence": 0.99
+    },
+    {
+      "word": "que",
+      "startMs": 110685,
+      "endMs": 110775,
+      "confidence": 0.99
+    },
+    {
+      "word": "temos",
+      "startMs": 110820,
+      "endMs": 111095,
+      "confidence": 0.99
+    },
+    {
+      "word": "hoje",
+      "startMs": 111100,
+      "endMs": 111485,
+      "confidence": 0.99
+    },
+    {
+      "word": "são",
+      "startMs": 111730,
+      "endMs": 111905,
+      "confidence": 0.99
+    },
+    {
+      "word": "milhares",
+      "startMs": 111910,
+      "endMs": 112525,
+      "confidence": 0.99
+    },
+    {
+      "word": "de",
+      "startMs": 112530,
+      "endMs": 112615,
+      "confidence": 0.99
+    },
+    {
+      "word": "cópias",
+      "startMs": 112700,
+      "endMs": 112925,
+      "confidence": 0.99
+    },
+    {
+      "word": "feitas",
+      "startMs": 112930,
+      "endMs": 113340,
+      "confidence": 0.99
+    },
+    {
+      "word": "à",
+      "startMs": 113345,
+      "endMs": 113530,
+      "confidence": 0.99
+    },
+    {
+      "word": "mão",
+      "startMs": 113535,
+      "endMs": 113830,
+      "confidence": 0.99
+    },
+    {
+      "word": "por",
+      "startMs": 114130,
+      "endMs": 114200,
+      "confidence": 0.99
+    },
+    {
+      "word": "escribas",
+      "startMs": 114205,
+      "endMs": 114685,
+      "confidence": 0.99
+    },
+    {
+      "word": "ao",
+      "startMs": 114690,
+      "endMs": 114780,
+      "confidence": 0.99
+    },
+    {
+      "word": "longo",
+      "startMs": 114785,
+      "endMs": 115170,
+      "confidence": 0.99
+    },
+    {
+      "word": "dos",
+      "startMs": 115175,
+      "endMs": 115240,
+      "confidence": 0.99
+    },
+    {
+      "word": "séculos.",
+      "startMs": 115245,
+      "endMs": 115865,
+      "confidence": 0.99
+    },
+    {
+      "word": "E",
+      "startMs": 116610,
+      "endMs": 116695,
+      "confidence": 0.99
+    },
+    {
+      "word": "como",
+      "startMs": 116760,
+      "endMs": 117015,
+      "confidence": 0.99
+    },
+    {
+      "word": "todo",
+      "startMs": 117205,
+      "endMs": 117500,
+      "confidence": 0.99
+    },
+    {
+      "word": "trabalho",
+      "startMs": 117545,
+      "endMs": 117935,
+      "confidence": 0.99
+    },
+    {
+      "word": "humano,",
+      "startMs": 117940,
+      "endMs": 118465,
+      "confidence": 0.99
+    },
+    {
+      "word": "essas",
+      "startMs": 118830,
+      "endMs": 119130,
+      "confidence": 0.99
+    },
+    {
+      "word": "cópias",
+      "startMs": 119180,
+      "endMs": 119605,
+      "confidence": 0.99
+    },
+    {
+      "word": "sofreram",
+      "startMs": 119835,
+      "endMs": 120495,
+      "confidence": 0.99
+    },
+    {
+      "word": "alterações.",
+      "startMs": 120550,
+      "endMs": 121190,
+      "confidence": 0.99
+    },
+    {
+      "word": "O",
+      "startMs": 122105,
+      "endMs": 122210,
+      "confidence": 0.99
+    },
+    {
+      "word": "exemplo",
+      "startMs": 122215,
+      "endMs": 122865,
+      "confidence": 0.99
+    },
+    {
+      "word": "mais",
+      "startMs": 122870,
+      "endMs": 122980,
+      "confidence": 0.99
+    },
+    {
+      "word": "famoso",
+      "startMs": 123035,
+      "endMs": 123605,
+      "confidence": 0.99
+    },
+    {
+      "word": "está",
+      "startMs": 123610,
+      "endMs": 123895,
+      "confidence": 0.99
+    },
+    {
+      "word": "em",
+      "startMs": 123900,
+      "endMs": 124005,
+      "confidence": 0.99
+    },
+    {
+      "word": "João,",
+      "startMs": 124010,
+      "endMs": 124370,
+      "confidence": 0.99
+    },
+    {
+      "word": "capítulo",
+      "startMs": 124690,
+      "endMs": 125235,
+      "confidence": 0.99
+    },
+    {
+      "word": "oito:",
+      "startMs": 125240,
+      "endMs": 125565,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 126465,
+      "endMs": 126545,
+      "confidence": 0.99
+    },
+    {
+      "word": "história",
+      "startMs": 126550,
+      "endMs": 127070,
+      "confidence": 0.99
+    },
+    {
+      "word": "da",
+      "startMs": 127075,
+      "endMs": 127175,
+      "confidence": 0.99
+    },
+    {
+      "word": "mulher",
+      "startMs": 127180,
+      "endMs": 127525,
+      "confidence": 0.99
+    },
+    {
+      "word": "adúltera",
+      "startMs": 127530,
+      "endMs": 128050,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 128585,
+      "endMs": 128715,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 128720,
+      "endMs": 128775,
+      "confidence": 0.99
+    },
+    {
+      "word": "frase",
+      "startMs": 128850,
+      "endMs": 129290,
+      "confidence": 0.99
+    },
+    {
+      "word": "quem",
+      "startMs": 129730,
+      "endMs": 129970,
+      "confidence": 0.99
+    },
+    {
+      "word": "não",
+      "startMs": 129975,
+      "endMs": 130155,
+      "confidence": 0.99
+    },
+    {
+      "word": "tiver",
+      "startMs": 130175,
+      "endMs": 130480,
+      "confidence": 0.99
+    },
+    {
+      "word": "pecado",
+      "startMs": 130555,
+      "endMs": 131000,
+      "confidence": 0.99
+    },
+    {
+      "word": "atire",
+      "startMs": 131005,
+      "endMs": 131530,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 131595,
+      "endMs": 131635,
+      "confidence": 0.99
+    },
+    {
+      "word": "primeira",
+      "startMs": 131640,
+      "endMs": 131995,
+      "confidence": 0.99
+    },
+    {
+      "word": "pedra.",
+      "startMs": 132090,
+      "endMs": 132425,
+      "confidence": 0.99
+    },
+    {
+      "word": "Essa",
+      "startMs": 133415,
+      "endMs": 133635,
+      "confidence": 0.99
+    },
+    {
+      "word": "passagem",
+      "startMs": 133690,
+      "endMs": 134250,
+      "confidence": 0.99
+    },
+    {
+      "word": "simplesmente",
+      "startMs": 134670,
+      "endMs": 135420,
+      "confidence": 0.99
+    },
+    {
+      "word": "não",
+      "startMs": 135425,
+      "endMs": 135590,
+      "confidence": 0.99
+    },
+    {
+      "word": "existe",
+      "startMs": 135595,
+      "endMs": 136155,
+      "confidence": 0.99
+    },
+    {
+      "word": "nos",
+      "startMs": 136160,
+      "endMs": 136280,
+      "confidence": 0.99
+    },
+    {
+      "word": "manuscritos",
+      "startMs": 136305,
+      "endMs": 137050,
+      "confidence": 0.99
+    },
+    {
+      "word": "gregos",
+      "startMs": 137085,
+      "endMs": 137460,
+      "confidence": 0.99
+    },
+    {
+      "word": "mais",
+      "startMs": 137465,
+      "endMs": 137605,
+      "confidence": 0.99
+    },
+    {
+      "word": "antigos",
+      "startMs": 137610,
+      "endMs": 138305,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 138310,
+      "endMs": 138425,
+      "confidence": 0.99
+    },
+    {
+      "word": "confiáveis.",
+      "startMs": 138430,
+      "endMs": 139185,
+      "confidence": 0.99
+    },
+    {
+      "word": "Ela",
+      "startMs": 140020,
+      "endMs": 140215,
+      "confidence": 0.99
+    },
+    {
+      "word": "foi",
+      "startMs": 140295,
+      "endMs": 140435,
+      "confidence": 0.99
+    },
+    {
+      "word": "inserida",
+      "startMs": 140440,
+      "endMs": 140980,
+      "confidence": 0.99
+    },
+    {
+      "word": "séculos",
+      "startMs": 140985,
+      "endMs": 141660,
+      "confidence": 0.99
+    },
+    {
+      "word": "depois.",
+      "startMs": 141665,
+      "endMs": 142050,
+      "confidence": 0.99
+    },
+    {
+      "word": "O",
+      "startMs": 142970,
+      "endMs": 143085,
+      "confidence": 0.99
+    },
+    {
+      "word": "mesmo",
+      "startMs": 143090,
+      "endMs": 143545,
+      "confidence": 0.99
+    },
+    {
+      "word": "acontece",
+      "startMs": 143590,
+      "endMs": 144215,
+      "confidence": 0.99
+    },
+    {
+      "word": "com",
+      "startMs": 144230,
+      "endMs": 144380,
+      "confidence": 0.99
+    },
+    {
+      "word": "o",
+      "startMs": 144385,
+      "endMs": 144470,
+      "confidence": 0.99
+    },
+    {
+      "word": "final",
+      "startMs": 144475,
+      "endMs": 144830,
+      "confidence": 0.99
+    },
+    {
+      "word": "do",
+      "startMs": 144835,
+      "endMs": 144960,
+      "confidence": 0.99
+    },
+    {
+      "word": "Evangelho",
+      "startMs": 144965,
+      "endMs": 145420,
+      "confidence": 0.99
+    },
+    {
+      "word": "de",
+      "startMs": 145425,
+      "endMs": 145550,
+      "confidence": 0.99
+    },
+    {
+      "word": "Marcos,",
+      "startMs": 145555,
+      "endMs": 145975,
+      "confidence": 0.99
+    },
+    {
+      "word": "que",
+      "startMs": 146415,
+      "endMs": 146525,
+      "confidence": 0.99
+    },
+    {
+      "word": "originalmente",
+      "startMs": 146530,
+      "endMs": 147385,
+      "confidence": 0.99
+    },
+    {
+      "word": "terminava",
+      "startMs": 147390,
+      "endMs": 148085,
+      "confidence": 0.99
+    },
+    {
+      "word": "no",
+      "startMs": 148090,
+      "endMs": 148190,
+      "confidence": 0.99
+    },
+    {
+      "word": "versículo",
+      "startMs": 148195,
+      "endMs": 148730,
+      "confidence": 0.99
+    },
+    {
+      "word": "oito",
+      "startMs": 148735,
+      "endMs": 149045,
+      "confidence": 0.99
+    },
+    {
+      "word": "do",
+      "startMs": 149370,
+      "endMs": 149465,
+      "confidence": 0.99
+    },
+    {
+      "word": "capítulo",
+      "startMs": 149510,
+      "endMs": 150110,
+      "confidence": 0.99
+    },
+    {
+      "word": "dezesseis,",
+      "startMs": 150115,
+      "endMs": 150670,
+      "confidence": 0.99
+    },
+    {
+      "word": "com",
+      "startMs": 151135,
+      "endMs": 151265,
+      "confidence": 0.99
+    },
+    {
+      "word": "as",
+      "startMs": 151270,
+      "endMs": 151375,
+      "confidence": 0.99
+    },
+    {
+      "word": "mulheres",
+      "startMs": 151380,
+      "endMs": 151970,
+      "confidence": 0.99
+    },
+    {
+      "word": "fugindo",
+      "startMs": 152045,
+      "endMs": 152640,
+      "confidence": 0.99
+    },
+    {
+      "word": "do",
+      "startMs": 152645,
+      "endMs": 152755,
+      "confidence": 0.99
+    },
+    {
+      "word": "túmulo",
+      "startMs": 152765,
+      "endMs": 153175,
+      "confidence": 0.99
+    },
+    {
+      "word": "em",
+      "startMs": 153180,
+      "endMs": 153280,
+      "confidence": 0.99
+    },
+    {
+      "word": "silêncio",
+      "startMs": 153285,
+      "endMs": 153830,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 154240,
+      "endMs": 154310,
+      "confidence": 0.99
+    },
+    {
+      "word": "com",
+      "startMs": 154355,
+      "endMs": 154400,
+      "confidence": 0.99
+    },
+    {
+      "word": "medo.",
+      "startMs": 154405,
+      "endMs": 154895,
+      "confidence": 0.99
+    },
+    {
+      "word": "E",
+      "startMs": 156685,
+      "endMs": 156845,
+      "confidence": 0.99
+    },
+    {
+      "word": "mais:",
+      "startMs": 156850,
+      "endMs": 157240,
+      "confidence": 0.99
+    },
+    {
+      "word": "quando",
+      "startMs": 157965,
+      "endMs": 158320,
+      "confidence": 0.99
+    },
+    {
+      "word": "comparamos",
+      "startMs": 158350,
+      "endMs": 159010,
+      "confidence": 0.99
+    },
+    {
+      "word": "os",
+      "startMs": 159035,
+      "endMs": 159075,
+      "confidence": 0.99
+    },
+    {
+      "word": "quatro",
+      "startMs": 159080,
+      "endMs": 159280,
+      "confidence": 0.99
+    },
+    {
+      "word": "relatos",
+      "startMs": 159285,
+      "endMs": 159725,
+      "confidence": 0.99
+    },
+    {
+      "word": "lado",
+      "startMs": 159735,
+      "endMs": 160005,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 160010,
+      "endMs": 160100,
+      "confidence": 0.99
+    },
+    {
+      "word": "lado,",
+      "startMs": 160105,
+      "endMs": 160550,
+      "confidence": 0.99
+    },
+    {
+      "word": "as",
+      "startMs": 161030,
+      "endMs": 161130,
+      "confidence": 0.99
+    },
+    {
+      "word": "diferenças",
+      "startMs": 161135,
+      "endMs": 161730,
+      "confidence": 0.99
+    },
+    {
+      "word": "nos",
+      "startMs": 161740,
+      "endMs": 161845,
+      "confidence": 0.99
+    },
+    {
+      "word": "detalhes",
+      "startMs": 161850,
+      "endMs": 162655,
+      "confidence": 0.99
+    },
+    {
+      "word": "chamam",
+      "startMs": 163010,
+      "endMs": 163565,
+      "confidence": 0.99
+    },
+    {
+      "word": "atenção.",
+      "startMs": 163615,
+      "endMs": 164050,
+      "confidence": 0.99
+    },
+    {
+      "word": "Na",
+      "startMs": 165030,
+      "endMs": 165160,
+      "confidence": 0.99
+    },
+    {
+      "word": "manhã",
+      "startMs": 165165,
+      "endMs": 165455,
+      "confidence": 0.99
+    },
+    {
+      "word": "da",
+      "startMs": 165460,
+      "endMs": 165555,
+      "confidence": 0.99
+    },
+    {
+      "word": "ressurreição,",
+      "startMs": 165560,
+      "endMs": 166325,
+      "confidence": 0.99
+    },
+    {
+      "word": "quantas",
+      "startMs": 166980,
+      "endMs": 167275,
+      "confidence": 0.99
+    },
+    {
+      "word": "pessoas",
+      "startMs": 167330,
+      "endMs": 167545,
+      "confidence": 0.99
+    },
+    {
+      "word": "foram",
+      "startMs": 167550,
+      "endMs": 167855,
+      "confidence": 0.99
+    },
+    {
+      "word": "ao",
+      "startMs": 167910,
+      "endMs": 168015,
+      "confidence": 0.99
+    },
+    {
+      "word": "túmulo?",
+      "startMs": 168020,
+      "endMs": 168695,
+      "confidence": 0.99
+    },
+    {
+      "word": "Maria",
+      "startMs": 169370,
+      "endMs": 169705,
+      "confidence": 0.99
+    },
+    {
+      "word": "Madalena",
+      "startMs": 169710,
+      "endMs": 170265,
+      "confidence": 0.99
+    },
+    {
+      "word": "sozinha,",
+      "startMs": 170270,
+      "endMs": 170780,
+      "confidence": 0.99
+    },
+    {
+      "word": "duas",
+      "startMs": 171195,
+      "endMs": 171420,
+      "confidence": 0.99
+    },
+    {
+      "word": "mulheres",
+      "startMs": 171425,
+      "endMs": 171950,
+      "confidence": 0.99
+    },
+    {
+      "word": "ou",
+      "startMs": 171955,
+      "endMs": 172070,
+      "confidence": 0.99
+    },
+    {
+      "word": "um",
+      "startMs": 172075,
+      "endMs": 172180,
+      "confidence": 0.99
+    },
+    {
+      "word": "grupo",
+      "startMs": 172225,
+      "endMs": 172730,
+      "confidence": 0.99
+    },
+    {
+      "word": "maior?",
+      "startMs": 172745,
+      "endMs": 173200,
+      "confidence": 0.99
+    },
+    {
+      "word": "Quem",
+      "startMs": 174180,
+      "endMs": 174380,
+      "confidence": 0.99
+    },
+    {
+      "word": "estava",
+      "startMs": 174430,
+      "endMs": 174750,
+      "confidence": 0.99
+    },
+    {
+      "word": "lá",
+      "startMs": 174755,
+      "endMs": 174835,
+      "confidence": 0.99
+    },
+    {
+      "word": "dentro",
+      "startMs": 174840,
+      "endMs": 175100,
+      "confidence": 0.99
+    },
+    {
+      "word": "esperando?",
+      "startMs": 175110,
+      "endMs": 175680,
+      "confidence": 0.99
+    },
+    {
+      "word": "Um",
+      "startMs": 176550,
+      "endMs": 176700,
+      "confidence": 0.99
+    },
+    {
+      "word": "jovem,",
+      "startMs": 176705,
+      "endMs": 177245,
+      "confidence": 0.99
+    },
+    {
+      "word": "um",
+      "startMs": 177680,
+      "endMs": 177815,
+      "confidence": 0.99
+    },
+    {
+      "word": "anjo",
+      "startMs": 177820,
+      "endMs": 178315,
+      "confidence": 0.99
+    },
+    {
+      "word": "ou",
+      "startMs": 178805,
+      "endMs": 178935,
+      "confidence": 0.99
+    },
+    {
+      "word": "dois",
+      "startMs": 178940,
+      "endMs": 179160,
+      "confidence": 0.99
+    },
+    {
+      "word": "homens",
+      "startMs": 179165,
+      "endMs": 179595,
+      "confidence": 0.99
+    },
+    {
+      "word": "com",
+      "startMs": 179630,
+      "endMs": 179745,
+      "confidence": 0.99
+    },
+    {
+      "word": "vestes",
+      "startMs": 179760,
+      "endMs": 180180,
+      "confidence": 0.99
+    },
+    {
+      "word": "brilhantes?",
+      "startMs": 180185,
+      "endMs": 181015,
+      "confidence": 0.99
+    },
+    {
+      "word": "Cada",
+      "startMs": 182120,
+      "endMs": 182335,
+      "confidence": 0.99
+    },
+    {
+      "word": "evangelista",
+      "startMs": 182340,
+      "endMs": 183215,
+      "confidence": 0.99
+    },
+    {
+      "word": "contou",
+      "startMs": 183565,
+      "endMs": 183995,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 184000,
+      "endMs": 184075,
+      "confidence": 0.99
+    },
+    {
+      "word": "história",
+      "startMs": 184140,
+      "endMs": 184635,
+      "confidence": 0.99
+    },
+    {
+      "word": "de",
+      "startMs": 184695,
+      "endMs": 184750,
+      "confidence": 0.99
+    },
+    {
+      "word": "acordo",
+      "startMs": 184755,
+      "endMs": 185050,
+      "confidence": 0.99
+    },
+    {
+      "word": "com",
+      "startMs": 185065,
+      "endMs": 185160,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 185200,
+      "endMs": 185235,
+      "confidence": 0.99
+    },
+    {
+      "word": "comunidade",
+      "startMs": 185240,
+      "endMs": 185790,
+      "confidence": 0.99
+    },
+    {
+      "word": "para",
+      "startMs": 185795,
+      "endMs": 185885,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 185985,
+      "endMs": 186075,
+      "confidence": 0.99
+    },
+    {
+      "word": "qual",
+      "startMs": 186080,
+      "endMs": 186210,
+      "confidence": 0.99
+    },
+    {
+      "word": "escrevia",
+      "startMs": 186275,
+      "endMs": 187095,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 187705,
+      "endMs": 187835,
+      "confidence": 0.99
+    },
+    {
+      "word": "com",
+      "startMs": 187840,
+      "endMs": 188000,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 188005,
+      "endMs": 188150,
+      "confidence": 0.99
+    },
+    {
+      "word": "mensagem",
+      "startMs": 188155,
+      "endMs": 188555,
+      "confidence": 0.99
+    },
+    {
+      "word": "teológica",
+      "startMs": 188620,
+      "endMs": 189285,
+      "confidence": 0.99
+    },
+    {
+      "word": "que",
+      "startMs": 189330,
+      "endMs": 189415,
+      "confidence": 0.99
+    },
+    {
+      "word": "queria",
+      "startMs": 189470,
+      "endMs": 189765,
+      "confidence": 0.99
+    },
+    {
+      "word": "transmitir.",
+      "startMs": 189820,
+      "endMs": 190410,
+      "confidence": 0.99
+    },
+    {
+      "word": "Durante",
+      "startMs": 191340,
+      "endMs": 191945,
+      "confidence": 0.99
+    },
+    {
+      "word": "séculos,",
+      "startMs": 191950,
+      "endMs": 192480,
+      "confidence": 0.99
+    },
+    {
+      "word": "existiram",
+      "startMs": 192920,
+      "endMs": 193490,
+      "confidence": 0.99
+    },
+    {
+      "word": "dezenas",
+      "startMs": 193495,
+      "endMs": 194010,
+      "confidence": 0.99
+    },
+    {
+      "word": "de",
+      "startMs": 194015,
+      "endMs": 194115,
+      "confidence": 0.99
+    },
+    {
+      "word": "outros",
+      "startMs": 194120,
+      "endMs": 194480,
+      "confidence": 0.99
+    },
+    {
+      "word": "evangelhos",
+      "startMs": 194485,
+      "endMs": 195205,
+      "confidence": 0.99
+    },
+    {
+      "word": "circulando",
+      "startMs": 195210,
+      "endMs": 195865,
+      "confidence": 0.99
+    },
+    {
+      "word": "entre",
+      "startMs": 195870,
+      "endMs": 196195,
+      "confidence": 0.99
+    },
+    {
+      "word": "os",
+      "startMs": 196210,
+      "endMs": 196355,
+      "confidence": 0.99
+    },
+    {
+      "word": "primeiros",
+      "startMs": 196425,
+      "endMs": 196965,
+      "confidence": 0.99
+    },
+    {
+      "word": "cristãos,",
+      "startMs": 196980,
+      "endMs": 197585,
+      "confidence": 0.99
+    },
+    {
+      "word": "como",
+      "startMs": 198120,
+      "endMs": 198460,
+      "confidence": 0.99
+    },
+    {
+      "word": "os",
+      "startMs": 198465,
+      "endMs": 198585,
+      "confidence": 0.99
+    },
+    {
+      "word": "de",
+      "startMs": 198590,
+      "endMs": 198690,
+      "confidence": 0.99
+    },
+    {
+      "word": "Tomé,",
+      "startMs": 198750,
+      "endMs": 199155,
+      "confidence": 0.99
+    },
+    {
+      "word": "Pedro,",
+      "startMs": 199580,
+      "endMs": 199980,
+      "confidence": 0.99
+    },
+    {
+      "word": "Filipe",
+      "startMs": 200380,
+      "endMs": 200970,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 201215,
+      "endMs": 201320,
+      "confidence": 0.99
+    },
+    {
+      "word": "Maria.",
+      "startMs": 201325,
+      "endMs": 201790,
+      "confidence": 0.99
+    },
+    {
+      "word": "A",
+      "startMs": 202705,
+      "endMs": 202830,
+      "confidence": 0.99
+    },
+    {
+      "word": "lista",
+      "startMs": 202835,
+      "endMs": 203135,
+      "confidence": 0.99
+    },
+    {
+      "word": "fechada",
+      "startMs": 203210,
+      "endMs": 203860,
+      "confidence": 0.99
+    },
+    {
+      "word": "com",
+      "startMs": 203875,
+      "endMs": 204020,
+      "confidence": 0.99
+    },
+    {
+      "word": "apenas",
+      "startMs": 204100,
+      "endMs": 204430,
+      "confidence": 0.99
+    },
+    {
+      "word": "quatro",
+      "startMs": 204520,
+      "endMs": 204820,
+      "confidence": 0.99
+    },
+    {
+      "word": "livros",
+      "startMs": 204830,
+      "endMs": 205430,
+      "confidence": 0.99
+    },
+    {
+      "word": "só",
+      "startMs": 205825,
+      "endMs": 205895,
+      "confidence": 0.99
+    },
+    {
+      "word": "foi",
+      "startMs": 205900,
+      "endMs": 206005,
+      "confidence": 0.99
+    },
+    {
+      "word": "consolidada",
+      "startMs": 206110,
+      "endMs": 207070,
+      "confidence": 0.99
+    },
+    {
+      "word": "séculos",
+      "startMs": 207075,
+      "endMs": 207715,
+      "confidence": 0.99
+    },
+    {
+      "word": "depois,",
+      "startMs": 207720,
+      "endMs": 208265,
+      "confidence": 0.99
+    },
+    {
+      "word": "por",
+      "startMs": 208765,
+      "endMs": 208880,
+      "confidence": 0.99
+    },
+    {
+      "word": "decisões",
+      "startMs": 208885,
+      "endMs": 209520,
+      "confidence": 0.99
+    },
+    {
+      "word": "de",
+      "startMs": 209525,
+      "endMs": 209660,
+      "confidence": 0.99
+    },
+    {
+      "word": "bispos",
+      "startMs": 209665,
+      "endMs": 210105,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 210110,
+      "endMs": 210195,
+      "confidence": 0.99
+    },
+    {
+      "word": "concílios",
+      "startMs": 210250,
+      "endMs": 210815,
+      "confidence": 0.99
+    },
+    {
+      "word": "da",
+      "startMs": 210820,
+      "endMs": 210975,
+      "confidence": 0.99
+    },
+    {
+      "word": "Igreja.",
+      "startMs": 210980,
+      "endMs": 211375,
+      "confidence": 0.99
+    },
+    {
+      "word": "Portanto,",
+      "startMs": 212930,
+      "endMs": 213425,
+      "confidence": 0.99
+    },
+    {
+      "word": "o",
+      "startMs": 214005,
+      "endMs": 214105,
+      "confidence": 0.99
+    },
+    {
+      "word": "Novo",
+      "startMs": 214110,
+      "endMs": 214480,
+      "confidence": 0.99
+    },
+    {
+      "word": "Testamento",
+      "startMs": 214515,
+      "endMs": 215090,
+      "confidence": 0.99
+    },
+    {
+      "word": "não",
+      "startMs": 215095,
+      "endMs": 215250,
+      "confidence": 0.99
+    },
+    {
+      "word": "caiu",
+      "startMs": 215255,
+      "endMs": 215515,
+      "confidence": 0.99
+    },
+    {
+      "word": "pronto",
+      "startMs": 215590,
+      "endMs": 215995,
+      "confidence": 0.99
+    },
+    {
+      "word": "do",
+      "startMs": 216000,
+      "endMs": 216120,
+      "confidence": 0.99
+    },
+    {
+      "word": "céu.",
+      "startMs": 216125,
+      "endMs": 216300,
+      "confidence": 0.99
+    },
+    {
+      "word": "Ele",
+      "startMs": 217060,
+      "endMs": 217235,
+      "confidence": 0.99
+    },
+    {
+      "word": "foi",
+      "startMs": 217285,
+      "endMs": 217375,
+      "confidence": 0.99
+    },
+    {
+      "word": "compilado,",
+      "startMs": 217425,
+      "endMs": 218040,
+      "confidence": 0.99
+    },
+    {
+      "word": "traduzido,",
+      "startMs": 218505,
+      "endMs": 219270,
+      "confidence": 0.99
+    },
+    {
+      "word": "copiado",
+      "startMs": 219630,
+      "endMs": 220205,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 220210,
+      "endMs": 220375,
+      "confidence": 0.99
+    },
+    {
+      "word": "debatido",
+      "startMs": 220380,
+      "endMs": 221075,
+      "confidence": 0.99
+    },
+    {
+      "word": "por",
+      "startMs": 221145,
+      "endMs": 221265,
+      "confidence": 0.99
+    },
+    {
+      "word": "seres",
+      "startMs": 221270,
+      "endMs": 221580,
+      "confidence": 0.99
+    },
+    {
+      "word": "humanos.",
+      "startMs": 221585,
+      "endMs": 222015,
+      "confidence": 0.99
+    },
+    {
+      "word": "Isso",
+      "startMs": 222825,
+      "endMs": 223065,
+      "confidence": 0.99
+    },
+    {
+      "word": "não",
+      "startMs": 223070,
+      "endMs": 223210,
+      "confidence": 0.99
+    },
+    {
+      "word": "significa",
+      "startMs": 223215,
+      "endMs": 223835,
+      "confidence": 0.99
+    },
+    {
+      "word": "que",
+      "startMs": 224365,
+      "endMs": 224475,
+      "confidence": 0.99
+    },
+    {
+      "word": "os",
+      "startMs": 224480,
+      "endMs": 224555,
+      "confidence": 0.99
+    },
+    {
+      "word": "textos",
+      "startMs": 224610,
+      "endMs": 224955,
+      "confidence": 0.99
+    },
+    {
+      "word": "não",
+      "startMs": 224960,
+      "endMs": 225140,
+      "confidence": 0.99
+    },
+    {
+      "word": "tenham",
+      "startMs": 225190,
+      "endMs": 225485,
+      "confidence": 0.99
+    },
+    {
+      "word": "valor",
+      "startMs": 225490,
+      "endMs": 225990,
+      "confidence": 0.99
+    },
+    {
+      "word": "histórico",
+      "startMs": 226065,
+      "endMs": 226810,
+      "confidence": 0.99
+    },
+    {
+      "word": "ou",
+      "startMs": 226815,
+      "endMs": 226880,
+      "confidence": 0.99
+    },
+    {
+      "word": "espiritual.",
+      "startMs": 226955,
+      "endMs": 227475,
+      "confidence": 0.99
+    },
+    {
+      "word": "Mas",
+      "startMs": 228495,
+      "endMs": 228700,
+      "confidence": 0.99
+    },
+    {
+      "word": "significa",
+      "startMs": 228705,
+      "endMs": 229425,
+      "confidence": 0.99
+    },
+    {
+      "word": "que",
+      "startMs": 229495,
+      "endMs": 229550,
+      "confidence": 0.99
+    },
+    {
+      "word": "entre",
+      "startMs": 229565,
+      "endMs": 229920,
+      "confidence": 0.99
+    },
+    {
+      "word": "o",
+      "startMs": 229965,
+      "endMs": 230015,
+      "confidence": 0.99
+    },
+    {
+      "word": "que",
+      "startMs": 230020,
+      "endMs": 230105,
+      "confidence": 0.99
+    },
+    {
+      "word": "aconteceu",
+      "startMs": 230160,
+      "endMs": 230620,
+      "confidence": 0.99
+    },
+    {
+      "word": "na",
+      "startMs": 230625,
+      "endMs": 230675,
+      "confidence": 0.99
+    },
+    {
+      "word": "Palestina",
+      "startMs": 230680,
+      "endMs": 231560,
+      "confidence": 0.99
+    },
+    {
+      "word": "do",
+      "startMs": 232080,
+      "endMs": 232180,
+      "confidence": 0.99
+    },
+    {
+      "word": "século",
+      "startMs": 232185,
+      "endMs": 232615,
+      "confidence": 0.99
+    },
+    {
+      "word": "primeiro",
+      "startMs": 232665,
+      "endMs": 233130,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 233640,
+      "endMs": 233740,
+      "confidence": 0.99
+    },
+    {
+      "word": "o",
+      "startMs": 233745,
+      "endMs": 233840,
+      "confidence": 0.99
+    },
+    {
+      "word": "livro",
+      "startMs": 233845,
+      "endMs": 234140,
+      "confidence": 0.99
+    },
+    {
+      "word": "que",
+      "startMs": 234180,
+      "endMs": 234280,
+      "confidence": 0.99
+    },
+    {
+      "word": "você",
+      "startMs": 234285,
+      "endMs": 234440,
+      "confidence": 0.99
+    },
+    {
+      "word": "lê",
+      "startMs": 234445,
+      "endMs": 234600,
+      "confidence": 0.99
+    },
+    {
+      "word": "hoje,",
+      "startMs": 234605,
+      "endMs": 235035,
+      "confidence": 0.99
+    },
+    {
+      "word": "existe",
+      "startMs": 235590,
+      "endMs": 235915,
+      "confidence": 0.99
+    },
+    {
+      "word": "um",
+      "startMs": 235920,
+      "endMs": 236050,
+      "confidence": 0.99
+    },
+    {
+      "word": "longo",
+      "startMs": 236055,
+      "endMs": 236570,
+      "confidence": 0.99
+    },
+    {
+      "word": "processo",
+      "startMs": 236575,
+      "endMs": 237175,
+      "confidence": 0.99
+    },
+    {
+      "word": "humano,",
+      "startMs": 237180,
+      "endMs": 237915,
+      "confidence": 0.99
+    },
+    {
+      "word": "editorial",
+      "startMs": 238260,
+      "endMs": 239080,
+      "confidence": 0.99
+    },
+    {
+      "word": "e",
+      "startMs": 239345,
+      "endMs": 239435,
+      "confidence": 0.99
+    },
+    {
+      "word": "institucional.",
+      "startMs": 239440,
+      "endMs": 240490,
+      "confidence": 0.99
+    },
+    {
+      "word": "Conhecer",
+      "startMs": 241585,
+      "endMs": 242305,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 242310,
+      "endMs": 242430,
+      "confidence": 0.99
+    },
+    {
+      "word": "história",
+      "startMs": 242435,
+      "endMs": 242975,
+      "confidence": 0.99
+    },
+    {
+      "word": "real",
+      "startMs": 243135,
+      "endMs": 243435,
+      "confidence": 0.99
+    },
+    {
+      "word": "não",
+      "startMs": 243440,
+      "endMs": 243650,
+      "confidence": 0.99
+    },
+    {
+      "word": "destrói",
+      "startMs": 243720,
+      "endMs": 244075,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 244080,
+      "endMs": 244190,
+      "confidence": 0.99
+    },
+    {
+      "word": "verdade.",
+      "startMs": 244200,
+      "endMs": 244620,
+      "confidence": 0.99
+    },
+    {
+      "word": "Apenas",
+      "startMs": 245550,
+      "endMs": 246210,
+      "confidence": 0.99
+    },
+    {
+      "word": "destrói",
+      "startMs": 246280,
+      "endMs": 246675,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 246680,
+      "endMs": 246785,
+      "confidence": 0.99
+    },
+    {
+      "word": "ilusão",
+      "startMs": 246790,
+      "endMs": 247355,
+      "confidence": 0.99
+    },
+    {
+      "word": "de",
+      "startMs": 247360,
+      "endMs": 247465,
+      "confidence": 0.99
+    },
+    {
+      "word": "que",
+      "startMs": 247520,
+      "endMs": 247720,
+      "confidence": 0.99
+    },
+    {
+      "word": "a",
+      "startMs": 247745,
+      "endMs": 247800,
+      "confidence": 0.99
+    },
+    {
+      "word": "fé",
+      "startMs": 247910,
+      "endMs": 248130,
+      "confidence": 0.99
+    },
+    {
+      "word": "não",
+      "startMs": 248445,
+      "endMs": 248685,
+      "confidence": 0.99
+    },
+    {
+      "word": "precisa",
+      "startMs": 248745,
+      "endMs": 249400,
+      "confidence": 0.99
+    },
+    {
+      "word": "ser",
+      "startMs": 249405,
+      "endMs": 249630,
+      "confidence": 0.99
+    },
+    {
+      "word": "investigada.",
+      "startMs": 249635,
+      "endMs": 250455,
+      "confidence": 0.99
+    }
+  ]
+}
